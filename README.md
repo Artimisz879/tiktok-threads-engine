@@ -54,7 +54,7 @@ The LLM budget per full product cycle is **4 calls** (analyst, trend match, cand
 
 ```bash
 # 1. Clone
-git clone https://github.com/<you>/tiktok-threads-engine.git
+git clone https://github.com/Artimisz879/tiktok-threads-engine.git
 cd tiktok-threads-engine
 
 # 2. Create a virtualenv and install
